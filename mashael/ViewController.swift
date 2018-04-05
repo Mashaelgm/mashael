@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("First push")
+        print("First push 11")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
